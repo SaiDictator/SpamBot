@@ -2,7 +2,7 @@
   <img src="https://graph.org/file/f4e84fef88c1c848c138f.jpg" alt="BOT-SPAM Logo">
 </p>
 <h1 align="center">
-  <b>ʀɪᴢᴏᴇʟ X sᴘᴀᴍ</b>
+  <b>ᴅᴇᴀᴅ X sᴘᴀᴍ</b>
 </h1>
 
 [![Forks](https://img.shields.io/github/forks/MrRizoel/Spambot?style=flat-square&color=orange)](https://github.com/SaiDictator/SpamBot/fork)
@@ -24,9 +24,9 @@
 > kindly Watch [this video](https://t.me/Resourcez/9) for deploy process 
 
 # Support & Updates
-* [Channel](https://t.me/RiZoeLX)
-* [Support Group](https://t.me/DNHcHELL)
+* [Channel](https://t.me/DAEDX_HELP)
+* [Support Group](https://t.me/Saif_Sictator)
 
 # Credits
-* [RiZoeL](https://github.com/MrRizoel)
+* [RiZoeL](https://github.com/SaiDictator)
 * [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
