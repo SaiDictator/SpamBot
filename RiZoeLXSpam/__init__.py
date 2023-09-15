@@ -1,5 +1,5 @@
-# RiZoeLXSpam - Spam Userbots
-# Copyright © 2021 @RiZoeLX
+# DEAd - Spam Userbots
+# Copyright © 2021 @Saif_Dictator
 
 import os
 import sys
