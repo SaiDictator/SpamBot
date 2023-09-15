@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=<"https://graph.org/file/f4e84fef88c1c848c138f.jpg" alt="BOT-SPAM Logo">
+  <img src="https://graph.org/file/f4e84fef88c1c848c138f.jpg" alt="BOT-SPAM Logo">
 </p>
 <h1 align="center">
   <b>ʀɪᴢᴏᴇʟ X sᴘᴀᴍ</b>
